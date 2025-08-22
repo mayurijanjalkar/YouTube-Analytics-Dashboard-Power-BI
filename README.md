@@ -42,11 +42,5 @@ The goal of this dashboard is to **deliver actionable insights** into YouTube ch
 - Top 10 channels contribute disproportionately to total subscriber count.  
 - Subscriber distribution highlights untapped potential in regional languages.  
 
-## 📷 Dashboard Preview  
-(Add your Power BI dashboard screenshot here)  
-`![Dashboard Preview](images/dashboard_preview.png)`  
 
----
-
-👉 This dashboard showcases how **data storytelling** can unlock deep insights from raw YouTube datasets and transform them into **powerful visual narratives**.  
 
